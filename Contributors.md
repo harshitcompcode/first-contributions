@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Krishnakumar V] (https://github.com/krishkdev)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
@@ -10,6 +11,7 @@
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
+- [Nur Akman] (https://github.com/thecodingliva)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Derp] (https://github.com/DDeerrpp)
