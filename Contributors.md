@@ -68,6 +68,7 @@
 - [LomiaW](https://github.com/LomiaW)
 - [Harshit Saini](https://github.com/scholar-2001)
 - [Jonas Krymski](https://github.com/krymskjm)
+- [Harshit Kumar](https://github.com/harshitcompcode/first-contributions)
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [Karthik Goudar](https://github.com/karthikgoudar)
 - [CharlyMech](https://github.com/CharlyMech)
